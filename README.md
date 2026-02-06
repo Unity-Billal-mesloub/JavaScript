@@ -61,8 +61,3 @@ many of the algorithms can be found in the [wiki][explanation].
 [repositories]: https://github.com/orgs/TheAlgorithms/repositories
 [help-wanted]: https://github.com/TheAlgorithms/JavaScript/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22
 
-## Thanks to all the contributors ❤️
-
-<a href = "https://github.com/TheAlgorithms/JavaScript/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=TheAlgorithms/JavaScript"/>
-</a>
